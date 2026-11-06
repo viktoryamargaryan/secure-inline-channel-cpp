@@ -1,0 +1,5 @@
+build/
+psk.hex
+*.pcap
+*.pcapng
+wrong_psk.hex
